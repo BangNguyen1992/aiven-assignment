@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/aiven-assignment/static/js/main.45f039bc.chunk.js",
+    "main.js.map": "/aiven-assignment/static/js/main.45f039bc.chunk.js.map",
+    "runtime-main.js": "/aiven-assignment/static/js/runtime-main.72073bc7.js",
+    "runtime-main.js.map": "/aiven-assignment/static/js/runtime-main.72073bc7.js.map",
+    "static/js/2.eee2e4f8.chunk.js": "/aiven-assignment/static/js/2.eee2e4f8.chunk.js",
+    "static/js/2.eee2e4f8.chunk.js.map": "/aiven-assignment/static/js/2.eee2e4f8.chunk.js.map",
+    "static/js/3.ca22e2bc.chunk.js": "/aiven-assignment/static/js/3.ca22e2bc.chunk.js",
+    "static/js/3.ca22e2bc.chunk.js.map": "/aiven-assignment/static/js/3.ca22e2bc.chunk.js.map",
+    "index.html": "/aiven-assignment/index.html",
+    "static/js/2.eee2e4f8.chunk.js.LICENSE.txt": "/aiven-assignment/static/js/2.eee2e4f8.chunk.js.LICENSE.txt",
+    "static/media/aws-logo.9ba64765.png": "/aiven-assignment/static/media/aws-logo.9ba64765.png",
+    "static/media/azure-logo.603c9f76.png": "/aiven-assignment/static/media/azure-logo.603c9f76.png",
+    "static/media/do-logo.dbcd217c.png": "/aiven-assignment/static/media/do-logo.dbcd217c.png",
+    "static/media/google-logo.acfa52b4.jpg": "/aiven-assignment/static/media/google-logo.acfa52b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72073bc7.js",
+    "static/js/2.eee2e4f8.chunk.js",
+    "static/js/main.45f039bc.chunk.js"
+  ]
+}
