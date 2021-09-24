@@ -1,8 +1,10 @@
 {
   "name": "aiven-frontend-20210902",
   "version": "0.1.0",
+  "homepage": "https://BangNguyen1992.github.io/aiven-assignment",
   "private": true,
   "dependencies": {
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
@@ -18,7 +20,9 @@
     "test:coverage": "npm run test:nowatch -- --coverage",
     "eject": "react-scripts eject",
     "eslint": "eslint ./**/*.{ts,tsx}",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
